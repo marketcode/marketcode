@@ -1,5 +1,5 @@
 ### Marketcode Technology
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marketcode&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marketcode&show_icons=true&theme=radical&count_private=true)
 
 <!--
 **marketcode/marketcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
