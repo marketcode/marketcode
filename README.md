@@ -28,3 +28,12 @@
 >> Architecting systems for the next generation of enterprises
 >> Automation-first • Secure-by-design • Modular Platforms
 >> ERP • Governance • Financial Institutions • Scalable Software
+
+## 🧠 Main Expertise
+
+⚡ **Python Architect** — automation, enterprise systems  
+🟢 **Django Specialist** — ERP platforms, dashboards, governance  
+🟣 **Flask Developer** — lightweight services & bots  
+🔵 **FastAPI Engineer** — async high-performance APIs  
+🟡 **JavaScript Builder** — frontend systems & UI logic  
+
